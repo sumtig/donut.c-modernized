@@ -1,3 +1,5 @@
+# a python representation lol cuz why not haha
+# NOTE: exactly the same thing but slow
 import math
 import os
 import sys
