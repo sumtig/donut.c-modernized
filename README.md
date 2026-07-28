@@ -14,3 +14,5 @@ or you can also use `gcc donut.c -o donut -lm`
 
 you might notice the command being exactly the same most of the time.
 the old donut.c (`donut.c.old`) has a very low chance you can compile it with modern tools. have fun!
+
+pro tip: rename the old `donut.c` (`donut.c.old`) to `donut.c` if you want to try it!
