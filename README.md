@@ -2,13 +2,13 @@
 the infamous donut.c program, modernized to work with modern gcc.
 
 # how to compile for the noobies
-**arch:**
+**Linux:**
 `gcc donut.c -o donut -lm`
 
-**windows:**
+**Windows:**
 if you are using MSYS2 MinGW: `gcc donut.c -o donut.exe -lm`
 
-**macOS:**
+**MacOS:**
 if you have Xcode commandline tools: `clang donut.c -o donut -lm`
 or you can also use `gcc donut.c -o donut -lm`
 
