@@ -1,3 +1,4 @@
+// the modern donut.c convert!1 unfortunately not a donut in the code :(
 #define _DEFAULT_SOURCE
 #include <stdio.h>
 #include <math.h>
